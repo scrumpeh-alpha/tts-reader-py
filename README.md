@@ -1,4 +1,4 @@
-# tts-reader-py-joemama
+# tts-reader-py
 This is a tts reader i made because i was tired of reading.
 now i can listen and read at the same time.
 
